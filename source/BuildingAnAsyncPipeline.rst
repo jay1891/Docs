@@ -8,7 +8,7 @@ processor <CommandsCommandDispatcherAndProcessor.html#command-processor>`__ feat
 handle orthogonal operations.
 
 Implementing a Pipeline
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 The first step in building a pipeline is to decide that we want an
 orthogonal operation in our pipeline. Let us assume that we want to do
